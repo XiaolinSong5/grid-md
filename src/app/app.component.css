@@ -1,0 +1,9 @@
+.ag-theme-alpine {
+  --ag-header-height: 50px;
+  --ag-borders: none;
+  --ag-row-border-style: solid;
+  --ag-row-border-width: 1px;
+  min-height: 500px;
+  height: 500px;
+}
+
